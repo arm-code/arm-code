@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arm-code
-- 👀 I’m interested in the framework django, kotlin for android development.
-- 🌱 I’m currently learning kotlin, python, go, and java script, i
+- 👀 I’m interested in the development desktops apps using C# and SQL Server, i´m learning android using kotlin. 
+- 🌱 I’m currently learning C#, kotlin, python and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
