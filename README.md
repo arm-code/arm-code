@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @arm-code
-- 👀 I’m interested in the development desktops apps using C# and SQL Server, i´m learning android using kotlin. 
-- 🌱 I’m currently learning C#, kotlin, python and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alexis Romero...
+- 👀 I’m interested in the web development.
+- 🌱 I’m currently learning Django, Python, JavaScript.
 
 <!---
 arm-code/arm-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
