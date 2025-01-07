@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexis Romero...
 - 👀 I’m web developer.
-- 🌱 I’m currently working with React, Django and SQL.
+- 🌱 I’m currently working with React, Express JS and SQL.
 
 <!---
 arm-code/arm-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
