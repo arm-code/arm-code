@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un README bien estructurado y atractivo para tu perfil de GitHub. He incluido secciones que resaltan tu experiencia, proyectos y tus habilidades:
-
----
-
 # 👋 ¡Hola, soy Alexis Romero Mendoza!
 
 Soy un apasionado desarrollador de software con experiencia en diversas tecnologías, incluyendo **React**, **Node.js**, **Express**, **Python**, y más. Me encanta aprender y resolver problemas complejos mediante el código. En este perfil, encontrarás una combinación de proyectos personales, contribuciones a la comunidad y exploraciones de nuevas tecnologías.
@@ -20,12 +16,12 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 
 ## 🚀 Proyectos Destacados
 
-### 1. **[Spaytify]**
+### 1. **Spaytify**
    - **Descripción**: Sistema interno para la preparatoria abierta de ciudad Juarez.
    - **Tecnologías**: React, Node.js, Express, Electron.
    - **Enlace**: [GitHub](#)
 
-### 2. **[MobiliarioMendoza]**
+### 2. **MobiliarioMendoza**
    - **Descripción**: Plataforma para la gestion de un negocio de renta de mobiliario.
    - **Tecnologías**: Express, React, PostgreSQL.
    - **Enlace**: [GitHub](#)
@@ -51,7 +47,7 @@ Estoy desarrollando proyectos interesantes y educativos, como:
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arm-code&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
@@ -59,7 +55,6 @@ Estoy desarrollando proyectos interesantes y educativos, como:
 
 - **Correo**: [alexis.rinnegan@gmail.com](mailto:alexis.rinnegan@gmail.com)
 - **LinkedIn**: [Perfil en LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **Twitter**: [@TuUsuario](https://twitter.com/alexis_162917)
 - **Website**: [yosoyalexisromero.site](https://yosoyalexisromero.site/))
 
 ---
