@@ -1,37 +1,38 @@
-# 👋 ¡Hola, soy Alexis Romero Mendoza!
+# 👋 ¡Hi, I am Alexis Romero Mendoza!
 
-Soy un apasionado desarrollador de software con experiencia en diversas tecnologías, incluyendo **React**, **Node.js**, **Express**, **Python**, y más. Me encanta aprender y resolver problemas complejos mediante el código. En este perfil, encontrarás una combinación de proyectos personales, contribuciones a la comunidad y exploraciones de nuevas tecnologías.
+I'm a passionate software developer with experience in multiple technologies, including React, Nextjs, Node.js, Nestjs, MySQL, Python, and more. I love learning and solving complex problems through code. On this profile, you'll find a mix of personal projects, open-source contributions, and explorations of cutting-edge technologies.
 
 ---
 
-## 🔧 Mis Habilidades
+## 🔧 My skills
 
-- **Lenguajes de programación**: JavaScript, Python, SQL, HTML/CSS.
-- **Frameworks y Librerías**: React, Express.js, Electron, Django.
-- **Bases de datos**: MySQL, PostgreSQL, Sybase.
-- **Herramientas y otros**: Git, GitHub, Visual Studio Code, Visual Studio 2022.
-- **Metodologías**: GitFlow.
+- **Programming languages**: Typescript, Python, SQL, HTML/CSS.
+- **Frameworks and Libraries**: React, Nextjs, Nestjs, Electron, pdf-make.
+- **Databases**: MySQL and Sybase.
+- **Tools**: Git, GitHub, GitHub pages, Visual Studio Code, Postman, docker, pm2.
+- **Metodologies**: GitFlow.
+- **OS**: Windows, Ubuntu server
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 1. **Spaytify**
-   - **Descripción**: Sistema interno para la preparatoria abierta de ciudad Juarez.
-   - **Tecnologías**: React, Node.js, Express, Electron.
-   - **Enlace**: [GitHub](#)
+### 1. **Private project: Spaytify**
+   - **Description**: Sistema interno para la preparatoria abierta de ciudad Juarez.
+   - **Tecnologies**: Nextjs, Nestjs, Sybase ase, MySQL, ubuntu server.
+   - **Link**: [GitHub](#)
 
-### 2. **MobiliarioMendoza**
-   - **Descripción**: Plataforma para la gestion de un negocio de renta de mobiliario.
-   - **Tecnologías**: Express, React, PostgreSQL.
-   - **Enlace**: [GitHub](#)
+### 2. **Private project Mobiliario Mendoza**
+   - **Description**: Plataforma para la gestion de un negocio de renta de mobiliario.
+   - **Tecnologies**: Express, React, PostgreSQL.
+   - **Link*: [GitHub](#)
 
 ---
 
 ## 🌱 En Qué Estoy Trabajando Actualmente
 
 - Creando una **API RESTful** con **Express** y **Node.js** para proyectos de automatización de procesos.
-- Mejorando mis habilidades en **Electron** y **React** para proyectos web más robustos.
+- Mejorando mis habilidades en **React and Nextjs** para proyectos web más robustos.
 
 ---
 
