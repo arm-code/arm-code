@@ -1,51 +1,59 @@
-# ¡Hola, soy Alexis Romero Mendoza!
+# Hi, I'm Alexis Romero Mendoza 👋
 
-### **Software Engineer | Arquitecto de Software en formación**
+### Software Engineer | Full-Stack Developer (React & NestJS)
 
-Ingeniero de Sistemas Computacionales especializado en el desarrollo de ecosistemas web modernos y escalables. Actualmente enfocado en el diseño de arquitecturas sólidas utilizando el ecosistema de **JavaScript/TypeScript**.
+Computer Systems Engineer specialized in building modern, scalable web ecosystems. Currently deepening my focus on solid backend and system architecture across the **JavaScript/TypeScript** stack — from UI to database to Linux infrastructure.
 
-Me apasiona la intersección entre la eficiencia técnica y la resolución de problemas de negocio. Fuera del código, soy un ávido lector de psicología y filosofía, lo que me ayuda a mantener un enfoque crítico y analítico en el desarrollo.
+I'm driven by the intersection of technical efficiency and real business problem-solving. Outside of code, I read a lot of psychology and philosophy, which keeps me thinking critically and analytically about how I build software.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | --- | --- |
-| **Lenguajes** | TypeScript, JavaScript (ES6+), Python, SQL (PostgreSQL, MySQL, Sybase) |
-| **Frontend** | **React**, **Next.js**, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | **NestJS**, Node.js, Express |
-| **Infraestructura & Ops** | Docker, Nginx, Linux (Ubuntu/Debian), PM2, Cloudflare Tunnels, SSH |
-| **Herramientas & Otros** | Git (GitFlow), Postman, Supabase, Electron, GitHub Pages |
+| **Languages** | TypeScript, JavaScript (ES6+), Python, SQL (PostgreSQL, MySQL, Sybase) |
+| **Frontend** | React, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | NestJS, Node.js, Express |
+| **Infrastructure & Ops** | Docker, Nginx, Linux (Ubuntu/Debian), PM2, Cloudflare Tunnels, SSH |
+| **Tools & Other** | Git (GitFlow), Postman, Supabase, Electron, GitHub Actions |
 
 ---
 
-## Proyectos Destacados
+## 🚀 Featured Projects
 
-### [SPAyT Internal System](https://www.google.com/search?q=https://github.com/tu-usuario/proyecto)
+### [SIGET — School Control System for Telebachilleratos](https://stg-siget.spaytchihuahua.gob.mx/auth/users-login)
+*Academic management system for SPAyT's Telebachillerato network — currently in development.*
+- **Core:** Next.js & NestJS
+- **Highlight:** End-to-end school control platform (enrollment, users, academic records) being built for real institutional scale.
 
-*Sistema integral de gestión interna para SPAyT Ciudad Juárez.*
+### [SPAyT 2026 — Prepa Abierta Landing Page](https://spaytchihuahua.gob.mx/spayt-2026/prepa-abierta)
+*Public-facing landing page for SPAyT's Prepa Abierta program.*
+- **Core:** React TS & PHP MVC API
+- **Highlight:** Institutional page built for public outreach and student enrollment information.
 
-* **Core:** Next.js & NestJS.
-* **Logro:** Implementación de flujos complejos de datos integrando bases de datos legadas (**Sybase**) con soluciones modernas en servidores **Ubuntu**.
+### SPAyT Internal System
+*Institutional management system for SPAyT Chihuahua.*
+- **Core:** Next.js & NestJS
+- **Highlight:** Integrated legacy **Sybase** databases with a modern stack, deployed on Ubuntu production servers with high-availability process management (PM2).
 
-### [Business Management Platform](https://www.google.com/search?q=https://github.com/tu-usuario/proyecto)
+### [Business-Box — POS Platform](https://business-toolbox.yosoyalexisromero.site/)
+*Modular point-of-sale system for small business management.*
+- **Stack:** PostgreSQL + Supabase, Next.js, NestJS
+- **Highlight:** Inventory and shift-management modules built for real-time data persistence.
 
-*SaaS para la gestión de rentas y servicios.*
+### [Financial Calculator — Inmobiliaria RUBA](https://calculadora.arm-solutions.com.mx/)
+*Custom financial calculator tool built for a real estate client.*
+- **Stack:** React, TypeScript
 
-* **Stack:** PostgreSQL con Supabase, Next.js y NestJS.
-* **Enfoque:** Optimización de la experiencia de usuario y persistencia de datos en tiempo real.
-
-### [The Engineering Ledger](https://www.google.com/search?q=https://blog.yosoyalexisromero.site)
-
-*Mi blog personal y bitácora técnica.*
-
-* Documento mi camino hacia la arquitectura de software, compartiendo aprendizajes sobre patrones de diseño, infraestructura y buenas prácticas.
+### [The Engineering Ledger](https://blog.yosoyalexisromero.site/)
+*Personal blog and technical logbook.*
+- Documenting my path toward software architecture — design patterns, infrastructure decisions, and lessons learned along the way.
 
 ---
 
-## Conectemos
+## 📫 Let's Connect
 
-* **Sitio Web:** [yosoyalexisromero.site](https://yosoyalexisromero.site)
-* **LinkedIn:** [Alexis Romero Mendoza](https://www.linkedin.com/in/tu-perfil)
-* **Email:** [alexis.rinnegan@gmail.com](mailto:alexis.rinnegan@gmail.com)
+- **Freelance / Personal Brand:** [ARM Solutions](https://www.arm-solutions.com.mx/)
+- **LinkedIn:** [Alexis Romero Mendoza](https://www.linkedin.com/in/alexis-romero-mendoza-4a8b03221/)
+- **Email:** alexis.rm162917@gmail.com
