@@ -13,16 +13,18 @@ I'm driven by the intersection of technical efficiency and real business problem
 | Category | Technologies |
 | --- | --- |
 | **Languages** | TypeScript, JavaScript (ES6+), Python, SQL (PostgreSQL, MySQL, Sybase) |
-| **Frontend** | React, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Frontend** | React, Next.js, Tailwind CSS, HTML5/CSS3, Shadcn, PWA |
 | **Backend** | NestJS, Node.js, Express |
-| **Infrastructure & Ops** | Docker, Nginx, Linux (Ubuntu/Debian), PM2, Cloudflare Tunnels, SSH |
-| **Tools & Other** | Git (GitFlow), Postman, Supabase, Electron, GitHub Actions |
+| **Infrastructure & Ops** | Docker, Nginx, Linux (Ubuntu/Debian), PM2, Cloudflare Tunnels, SSH, Coolify |
+| **Tools & Other** | Git (GitFlow), Postman, Supabase, Electron, GitHub Actions, MinIO |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [SIGET — School Control System for Telebachilleratos](https://stg-siget.spaytchihuahua.gob.mx/auth/users-login)
+## Private projects:
+
+### [SIGET — School Control System for Telebachilleratos](https://stg-siget.spaytchihuahua.gob.mx)
 *Academic management system for SPAyT's Telebachillerato network — currently in development.*
 - **Core:** Next.js & NestJS
 - **Highlight:** End-to-end school control platform (enrollment, users, academic records) being built for real institutional scale.
@@ -34,26 +36,30 @@ I'm driven by the intersection of technical efficiency and real business problem
 
 ### SPAyT Internal System
 *Institutional management system for SPAyT Chihuahua.*
-- **Core:** Next.js & NestJS
+- **Core:** Next.js & NestJS, MinIO, Docker, Carbone, MySQL, Debian, Coolify
 - **Highlight:** Integrated legacy **Sybase** databases with a modern stack, deployed on Ubuntu production servers with high-availability process management (PM2).
 
-### [Business-Box — POS Platform](https://business-toolbox.yosoyalexisromero.site/)
-*Modular point-of-sale system for small business management.*
-- **Stack:** PostgreSQL + Supabase, Next.js, NestJS
-- **Highlight:** Inventory and shift-management modules built for real-time data persistence.
+## Public Projects:
 
-### [Financial Calculator — Inmobiliaria RUBA](https://calculadora.arm-solutions.com.mx/)
-*Custom financial calculator tool built for a real estate client.*
-- **Stack:** React, TypeScript
+### [El Changarro — Micro Apps Platform](https://elchangarro.dejuarez.mx/)
+*Suite of micro-applications tailored to streamline daily operations for local shopkeepers and entrepreneurs.*
+- **Stack:** PostgreSQL + Supabase, Next.js, NestJS, Vercel, Cloudflare
+- **Highlight:** Provides an accessible ecosystem of tools to help small businesses digitize and manage their daily tasks efficiently.
 
-### [The Engineering Ledger](https://blog.yosoyalexisromero.site/)
-*Personal blog and technical logbook.*
-- Documenting my path toward software architecture — design patterns, infrastructure decisions, and lessons learned along the way.
+### [dejuarez.mx — Software Development & Web Services](https://dejuarez.mx/)
+*Digital platform and agency providing tailored software solutions and web development.*
+- **Stack:** Next.js, Vercel, Cloudflare
+- **Highlight:** Delivering custom web pages, subdomain provisioning, and digital infrastructure to empower local businesses and community initiatives.
+
+### [El Changarro OS — Business Management Dashboard](https://eventosmendoza.dejuarez.mx/)
+*Comprehensive administrative system designed to streamline business operations.*
+- **Highlight:** Features a fully integrated admin panel handling inventory control, event scheduling, and automated quoting.
+- Built to optimize logistics and daily management for event rental businesses and service providers.
 
 ---
 
 ## 📫 Let's Connect
 
-- **Freelance / Personal Brand:** [ARM Solutions](https://www.arm-solutions.com.mx/)
+- **Freelance / Personal Brand:** [dejuarez](https://dejuarez.mx/)
 - **LinkedIn:** [Alexis Romero Mendoza](https://www.linkedin.com/in/alexis-romero-mendoza-4a8b03221/)
 - **Email:** alexis.rm162917@gmail.com
